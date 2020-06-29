@@ -1,0 +1,27 @@
+.heading
+{
+    color: white;
+    background-color: teal;
+    padding: 20px;
+    margin: 10px;
+}
+
+.start
+{
+    margin-top: 15px;
+}
+
+.text-area
+{
+    background-color: whitesmoke;
+}
+
+.text
+{
+    color: #4e554e;
+    text-align: justify;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
